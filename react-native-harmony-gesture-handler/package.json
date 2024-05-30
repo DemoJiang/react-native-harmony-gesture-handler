@@ -28,9 +28,6 @@
     "deploy": "node ./scripts/deploy.js"
   },
   "peerDependencies": {
-    "react": "*",
-    "react-native": "*",
-    "react-native-harmony": "*",
     "react-native-gesture-handler": "2.14.1"
   },
   "keywords": [],
